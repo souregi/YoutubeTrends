@@ -14,8 +14,10 @@
 
 4. Edit the keywords.txt File
 
-5. Run Jupyter Notebook : 
+# Quick Start
+
+1. Run Jupyter Notebook : 
 
 <pre>jupyter notebook</pre>
 
-# Quick Start
+2. Run the first line of command, the result should be something like this : 
