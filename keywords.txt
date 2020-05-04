@@ -1,8 +1,5 @@
-keyword 1
-keyword 2
-keyword 3
-keyword 4
-keyword 5
-keyword 6
-keyword 7
-keyword 8
+steve jobs
+bill gates
+jeff bezos
+mark zuckerberg
+larry page
