@@ -11,8 +11,11 @@ def chunks(lst, n):
     for i in range(0, len(lst), n):
         yield lst[i:i + n]
 
+def plotkeywords1H():
+    plotkeywords('now 1-H')
+
 def plotkeywords4H():
-    plotkeywords('now 4-H')		
+    plotkeywords('now 4-H')
 
 def plotkeywords24H():
     plotkeywords('now 1-d')
