@@ -26,4 +26,4 @@ Note that if you exceed some limit the requests will fail, you will have to rebo
 
 2. Run the first line of command, the result should be something like this : 
 
-<img src="https://raw.githubusercontent.com/souregi/youtubetrends/master/plot.png"/>
+<img src="https://github.com/souregi/youtubetrends/blob/master/keywordsResult24H.png?raw=true"/>
