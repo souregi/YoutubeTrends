@@ -18,6 +18,12 @@ Note that if you exceed some limit the requests will fail, you will have to rebo
 
 4. Edit the keywords.txt File
 
+<pre>steve jobs
+bill gates
+jeff bezos
+mark zuckerberg
+larry page</pre>
+
 # Quick Start
 
 1. Run Jupyter Notebook : 
